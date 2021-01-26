@@ -5,10 +5,10 @@
 
 ## Typing Speed Indicator
 
--Silahkan kunjungi web [ini](https://10fastfingers.com/)
--Tekan ``F12`` di keyboard, kalo gada keyboard bisa klik kanan mouse lalu ``inspect``
--Klik Tab ``cosole``
--Paste code di bawah kedalam ``console``
+- Silahkan kunjungi web [ini](https://10fastfingers.com/)
+- Tekan ``F12`` di keyboard, kalo gada keyboard bisa klik kanan mouse lalu ``inspect``
+- Klik Tab ``cosole``
+- Paste code di bawah kedalam ``console``
 
 ```js
 $(function () 
